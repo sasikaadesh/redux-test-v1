@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sasikaadesh/redux-test-v1.git/static/css/main.073c9b0a.css",
+    "main.js": "/sasikaadesh/redux-test-v1.git/static/js/main.709567fd.js",
+    "static/js/787.25ecf61b.chunk.js": "/sasikaadesh/redux-test-v1.git/static/js/787.25ecf61b.chunk.js",
+    "index.html": "/sasikaadesh/redux-test-v1.git/index.html",
+    "main.073c9b0a.css.map": "/sasikaadesh/redux-test-v1.git/static/css/main.073c9b0a.css.map",
+    "main.709567fd.js.map": "/sasikaadesh/redux-test-v1.git/static/js/main.709567fd.js.map",
+    "787.25ecf61b.chunk.js.map": "/sasikaadesh/redux-test-v1.git/static/js/787.25ecf61b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.709567fd.js"
+  ]
+}
